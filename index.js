@@ -16,6 +16,7 @@ const BotName = 'BOT X-PLAY'; // Nama Bot Whatsapp
 const instagramlu = 'masih download'; // Nama Instagramlu cok
 const whatsapplu = '083870068641'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Insyallah 24 jam'; // Kapan bot lu aktif
+const youtubelu = 'https://www.youtube.com/channel/UCZTUYmFg7nGWaICg1Lz3k4gUCZTUYmFg7nGWaICg1Lz3k4g'; //youtube kao
 const grupch1 = 'https://chat.whatsapp.com/JyltroeLvoaIX3ZFKDcY4G'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://chat.whatsapp.com/EGxI3JwkkSQ876vWHKC0s2'; // OFFICIAL GRUP LU 2
 //
