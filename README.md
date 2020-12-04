@@ -1,4 +1,4 @@
-# ridhobot
+# bot botan
 BOT WHATSAPP HP RIDHO SETIAWAN
 
 ### Alat dan Bahan
@@ -17,7 +17,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/ridho03/waridhobot.git
+> git clone https://github.com/Pelo-Stack/666.git
 > cd botst4rz
 > bash install.sh
 > node index.js
@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* DANA/PULSA  081289096745
+* OVO/PULSA : 0895421844942
